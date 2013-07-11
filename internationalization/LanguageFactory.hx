@@ -59,6 +59,7 @@ class LanguageFactory {
 			case "bg":  return new Bulgarian();
 			case "sv":  return new Swedish();
 			case "sl":  return new Slovene();
+			case "tt":  return new Tatar();
 		}
 		return new English();
 	}
