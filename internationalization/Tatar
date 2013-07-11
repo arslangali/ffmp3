@@ -38,5 +38,6 @@ class Tatar extends AbstractLanguage {
 		setText("securityError","Куркынычсызлык хатасы");
 		setText("about","Muses Radio Player Турында...");
 		setText("version","Версия");
+		setText("intro","Интро");
 	}
 }
